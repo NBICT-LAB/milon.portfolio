@@ -35,7 +35,7 @@ $(document).ready(function(){
 
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["Microsoft Word", "Microsoft Exel", "Microsoft PowerPoint", "Data Entry"]
+        strings: ["Microsoft Word", "Microsoft Excel", "Microsoft PowerPoint", "Data Entry"]
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
